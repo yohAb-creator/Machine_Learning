@@ -1,1 +1,1 @@
-A simple application of Linear Regression using sklearn
+Simple applications of Simple Linear, Multi Linear, and Polynomial Regression using sklearn.
